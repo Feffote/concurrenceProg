@@ -2,7 +2,7 @@
 *Some simple concurrent programs*
 
 *C code*
-  - Simple code runing threads, another implementig semaphores to avoid the concurrence problem.
+  - Code running threads, and another implementing semaphores to avoid the concurrence problem.
   - The producer-consumer problem solved with semaphores
   
 
