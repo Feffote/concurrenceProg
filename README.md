@@ -1,5 +1,5 @@
 # concurrenceProg
-Some simple concurrent programs
+*Some simple concurrent programs*
 
 *C code*
   - Simple code runing threads, another implementig semaphores to avoid the concurrence problem.
