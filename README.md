@@ -1,5 +1,5 @@
 # concurrenceProg
-*Some simple concurrent programs*
+*Simple concurrent programs implementing Semaphores and Monitors*
 
 *C code*
   - Code running threads, and another implementing semaphores to avoid the concurrence problem.
